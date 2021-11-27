@@ -1,0 +1,27 @@
+//genres list
+
+enum Genres {
+  fantasy,
+  adventure,
+  romance,
+  contemporary,
+  dystopian,
+  mystery,
+  horror,
+  thriller,
+  paranormal,
+  historicalFiction,
+  scienceFiction,
+  memoir,
+  cooking,
+  art,
+  personal,
+  development,
+  motivational,
+  health,
+  history,
+  travel,
+  guide,
+  familiesAndRelationships,
+  humor,
+}
