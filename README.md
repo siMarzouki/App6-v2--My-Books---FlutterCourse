@@ -1,4 +1,4 @@
-# Books App Version 2: Enhanced with Cupertino Style for iOS
+# My Books Pro
 
 In Version 2 of the Books App, we enhance the user experience by adopting Cupertino-style widgets, which provide a native iOS look and feel. This update makes the app more consistent with iOS design principles and improves its usability on iOS devices. We introduce several Cupertino widgets: `CupertinoButton`, `CupertinoPicker`, `CupertinoTabBar`, `CupertinoTextField`, and `CupertinoNavigationBar`.
 
